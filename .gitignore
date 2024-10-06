@@ -1,0 +1,6 @@
+*.env
+*.sh
+*.log
+go.sum
+.git/
+spotify-playlist-lister
